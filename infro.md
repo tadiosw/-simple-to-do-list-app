@@ -99,3 +99,30 @@ Input: Trying to delete "Read a book" (a task that doesn’t exist).
 Expected result: The app should say, "Task not found."
 Actual result: The program catches this case and displays the correct message. ❌
 
+Tools Used:
+
+-Python: The primary programming language used for creating the to-do list app.
+
+-IDLE/IDE: An integrated development environment (IDE) like PyCharm or VSCode for coding, testing, and debugging the program.
+
+-Terminal/Console: For running the program and interacting with the user input/output.
+
+-GitHub: For sharing the code and collaborating on version control.
+
+Skills Learned:
+
+-Python Lists: Learned how to manage and manipulate lists to store and update tasks dynamically.
+
+-User Input Handling: Gained hands-on experience in receiving, validating, and processing user input.
+
+-Functions: Enhanced understanding of breaking down a problem into smaller, reusable functions (add, view, and delete tasks).
+
+-Flow Control: Applied if-else conditions and loops for managing the app's logic.
+
+-Debugging: Developed troubleshooting skills by testing and refining the program to ensure it works under different scenarios.
+
+-Commenting and Documentation: Improved my ability to write clean, well-commented code to enhance readability and maintainability.
+
+-Program Design: Enhanced problem-solving skills by structuring the program’s flow and logic in a clear, manageable way.
+
+
