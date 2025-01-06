@@ -17,16 +17,28 @@ I wanted to build this app because I’ve often struggled with keeping track of 
 PART 2: Working Through Specific Examples
 
 Scenario 1: Adding a task
+![Screenshot 2025-01-05 220708](https://github.com/user-attachments/assets/8a7be06d-2f65-4fc0-bcfc-19b137d01c35)
 
 The user chooses to add a new task.
 The app will ask for a description of the task (e.g., "Finish Python assignment") and the due date (e.g., "2025-01-10"). 📅
 The task will be saved in a list, and the app will show a confirmation message: "Task 'Finish Python assignment' added with due date 2025-01-10." ✅
+![2](https://github.com/user-attachments/assets/10ec9bfb-cfd9-4ff9-a41f-d720fc51c39c)
+
 
 Scenario 2: Viewing all tasks
+![4](https://github.com/user-attachments/assets/9b61f1aa-c970-44f3-afff-31f0aaa9ec36)
+
+
+
 The user decides to see all tasks they’ve entered.
 The app will print a list of all tasks and their deadlines. 📝
 
+
+
 Scenario 3: Deleting a completed task
+
+![5](https://github.com/user-attachments/assets/74ce2316-e4ef-4daf-b671-e7bdf8763fd1)
+
 The user selects the option to delete a task.
 They provide the task description, and the app removes the task from the list if it matches.
 A confirmation message will be displayed, like "Task 'Finish Python assignment' deleted." 🗑️
