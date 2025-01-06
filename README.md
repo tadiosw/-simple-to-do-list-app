@@ -67,14 +67,26 @@ PART 4: Testing Your Program
 Task
  Once I’ve written some code, I’ll test it by simulating different scenarios to ensure it behaves as expected.
 Test Case 1: Adding a task
+
 Input: "Finish Python assignment" with a due date of "2025-01-10"
+
 Expected result: The task should be added, and a confirmation message should appear.
+
 Actual result: The program correctly adds the task and confirms it.
+
 Test Case 2: Viewing all tasks
+
 Input: No tasks yet.
+
 Expected result: The program should say, "No tasks available."
+
 Actual result: The app works fine and gives the expected message.
+
 Test Case 3: Deleting a non-existent task
+
 Input: Trying to delete "Read a book" (a task that doesn’t exist).
+
 Expected result: The app should say, "Task not found."
+
 Actual result: The program catches this case and displays the correct message.
+
